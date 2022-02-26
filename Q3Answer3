@@ -1,2 +1,0 @@
-Ans: B:
-commission = 200 * 5 + (numberProducts - 200) * 10;
